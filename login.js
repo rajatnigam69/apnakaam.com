@@ -7,7 +7,7 @@
   </label>
   <input type="password" id="password" required autocomplete="current-password" />
 
-  <label><input type="checkbox" id="rememberMe" /> Remember megdgsjfsjjdsfbdsbfd</label>
+  <label><input type="checkbox" id="rememberMe" /> Remember me</label>
 
   <button type="submit" id="loginBtn">Login</button>
 
