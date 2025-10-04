@@ -35,3 +35,6 @@ if(email === MOCK_EMAIL && password === MOCK_PASSWORD) {
     window.location.href = 'index.html';  // Redirect to home page
   }, 1000);  // Wait for 1 second to complete fade out
 }
+document.getElementById('registerBtn').addEventListener('click', function() {
+  window.location.href = 'form.html'; // Redirects to form.html page
+});
